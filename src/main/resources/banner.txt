@@ -1,0 +1,6 @@
+=====================================================
+		Spring Boot Application - Prueba
+=====================================================
+
+:: Built with Spring Boot :: ${spring-boot.version}
+
